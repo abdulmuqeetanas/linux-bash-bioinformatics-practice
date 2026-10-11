@@ -1,0 +1,5 @@
+DNA Sequence Analysis Report
+----------------------------
+Sequence Length: 30 nucleotides
+GC Count: 17
+GC Content: 56.67%
